@@ -3708,3 +3708,824 @@
 
 [2024-10-02 15:23:41.766]	 Done.
 
+[2024-10-02 15:28:02.995]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:28:03.004]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:28:03.184]	 Already installed "tmux-copycat"
+[2024-10-02 15:28:03.185]	 Already installed "tmux-cpu"
+[2024-10-02 15:28:03.185]	 Already installed "tmux-pain-control"
+[2024-10-02 15:28:03.185]	 Already installed "tmux-sensible"
+[2024-10-02 15:28:03.185]	 Already installed "tmux-continuum"
+[2024-10-02 15:28:03.186]	 Already installed "tmux"
+[2024-10-02 15:28:03.186]	 Already installed "tmux-resurrect"
+[2024-10-02 15:28:03.196]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:28:03.321]	 Updating all plugins!
+[2024-10-02 15:28:03.321]	 
+[2024-10-02 15:28:03.690]	   "tmux-cpu" update success
+[2024-10-02 15:28:03.692]	     | Already up to date.
+[2024-10-02 15:28:03.694]	   "tmux-resurrect" update success
+[2024-10-02 15:28:03.696]	     | Already up to date.
+[2024-10-02 15:28:03.703]	   "tmux-copycat" update success
+[2024-10-02 15:28:03.706]	     | Already up to date.
+[2024-10-02 15:28:03.719]	   "tmux-pain-control" update success
+[2024-10-02 15:28:03.721]	     | Already up to date.
+[2024-10-02 15:28:03.747]	   "tmux-sensible" update success
+[2024-10-02 15:28:03.748]	     | Already up to date.
+[2024-10-02 15:28:03.752]	   "tmux-continuum" update success
+[2024-10-02 15:28:03.753]	     | Already up to date.
+[2024-10-02 15:28:03.784]	   "tmux" update success
+[2024-10-02 15:28:03.785]	     | Already up to date.
+[2024-10-02 15:28:03.794]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:28:03.833]	 Done.
+
+[2024-10-02 15:28:15.070]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:28:15.079]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:28:15.263]	 Already installed "tmux-pain-control"
+[2024-10-02 15:28:15.264]	 Already installed "tmux-cpu"
+[2024-10-02 15:28:15.264]	 Already installed "tmux-copycat"
+[2024-10-02 15:28:15.264]	 Already installed "tmux-sensible"
+[2024-10-02 15:28:15.264]	 Already installed "tmux-resurrect"
+[2024-10-02 15:28:15.264]	 Already installed "tmux-continuum"
+[2024-10-02 15:28:15.265]	 Already installed "tmux"
+[2024-10-02 15:28:15.275]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:28:15.389]	 Updating all plugins!
+[2024-10-02 15:28:15.389]	 
+[2024-10-02 15:28:15.756]	   "tmux-copycat" update success
+[2024-10-02 15:28:15.757]	   "tmux-cpu" update success
+[2024-10-02 15:28:15.759]	     | Already up to date.
+[2024-10-02 15:28:15.760]	     | Already up to date.
+[2024-10-02 15:28:15.786]	   "tmux-resurrect" update success
+[2024-10-02 15:28:15.788]	     | Already up to date.
+[2024-10-02 15:28:15.794]	   "tmux-pain-control" update success
+[2024-10-02 15:28:15.796]	     | Already up to date.
+[2024-10-02 15:28:15.812]	   "tmux-continuum" update success
+[2024-10-02 15:28:15.813]	     | Already up to date.
+[2024-10-02 15:28:15.816]	   "tmux" update success
+[2024-10-02 15:28:15.818]	     | Already up to date.
+[2024-10-02 15:28:15.821]	   "tmux-sensible" update success
+[2024-10-02 15:28:15.822]	     | Already up to date.
+[2024-10-02 15:28:15.831]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:28:15.871]	 Done.
+
+[2024-10-02 15:28:41.775]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest catppuccin/tmux tmux-plugins/tmux-battery
+[2024-10-02 15:28:41.785]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:28:41.960]	 Installing "tmux-battery"
+[2024-10-02 15:28:41.967]	 Already installed "tmux-copycat"
+[2024-10-02 15:28:41.968]	 Already installed "tmux-pain-control"
+[2024-10-02 15:28:41.969]	 Already installed "tmux-resurrect"
+[2024-10-02 15:28:41.969]	 Already installed "tmux-cpu"
+[2024-10-02 15:28:41.971]	 Already installed "tmux-sensible"
+[2024-10-02 15:28:41.971]	 Already installed "tmux-continuum"
+[2024-10-02 15:28:41.972]	 Already installed "tmux"
+[2024-10-02 15:28:41.973]	 Already installed "tmux"
+[2024-10-02 15:28:42.459]	   "tmux-battery" download success
+[2024-10-02 15:28:42.469]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:28:42.610]	 Updating all plugins!
+[2024-10-02 15:28:42.610]	 
+[2024-10-02 15:28:42.972]	   "tmux-copycat" update success
+[2024-10-02 15:28:42.975]	     | Already up to date.
+[2024-10-02 15:28:42.988]	   "tmux-cpu" update success
+[2024-10-02 15:28:42.991]	     | Already up to date.
+[2024-10-02 15:28:42.997]	   "tmux-continuum" update success
+[2024-10-02 15:28:42.999]	     | Already up to date.
+[2024-10-02 15:28:43.017]	   "tmux-sensible" update success
+[2024-10-02 15:28:43.019]	     | Already up to date.
+[2024-10-02 15:28:43.023]	   "tmux-resurrect" update success
+[2024-10-02 15:28:43.024]	     | Already up to date.
+[2024-10-02 15:28:43.029]	   "tmux" update success
+[2024-10-02 15:28:43.031]	     | Already up to date.
+[2024-10-02 15:28:43.058]	   "tmux-battery" update success
+[2024-10-02 15:28:43.058]	   "tmux" update success
+[2024-10-02 15:28:43.060]	     | Already up to date.
+[2024-10-02 15:28:43.060]	     | Already up to date.
+[2024-10-02 15:28:43.083]	   "tmux-pain-control" update success
+[2024-10-02 15:28:43.085]	     | Already up to date.
+[2024-10-02 15:28:43.094]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:28:43.135]	 Done.
+
+[2024-10-02 15:28:51.479]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest catppuccin/tmux tmux-plugins/tmux-battery
+[2024-10-02 15:28:51.488]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:28:51.675]	 Already installed "tmux-cpu"
+[2024-10-02 15:28:51.678]	 Already installed "tmux-resurrect"
+[2024-10-02 15:28:51.678]	 Already installed "tmux-pain-control"
+[2024-10-02 15:28:51.679]	 Already installed "tmux-copycat"
+[2024-10-02 15:28:51.680]	 Already installed "tmux-continuum"
+[2024-10-02 15:28:51.680]	 Already installed "tmux"
+[2024-10-02 15:28:51.680]	 Already installed "tmux"
+[2024-10-02 15:28:51.681]	 Already installed "tmux-sensible"
+[2024-10-02 15:28:51.683]	 Already installed "tmux-battery"
+[2024-10-02 15:28:51.694]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:28:51.824]	 Updating all plugins!
+[2024-10-02 15:28:51.824]	 
+[2024-10-02 15:28:52.349]	   "tmux-copycat" update success
+[2024-10-02 15:28:52.356]	     | Already up to date.
+[2024-10-02 15:28:52.381]	   "tmux-cpu" update success
+[2024-10-02 15:28:52.386]	     | Already up to date.
+[2024-10-02 15:28:52.420]	   "tmux-resurrect" update success
+[2024-10-02 15:28:52.424]	     | Already up to date.
+[2024-10-02 15:28:52.432]	   "tmux-sensible" update success
+[2024-10-02 15:28:52.435]	   "tmux-continuum" update success
+[2024-10-02 15:28:52.435]	     | Already up to date.
+[2024-10-02 15:28:52.439]	     | Already up to date.
+[2024-10-02 15:28:52.469]	   "tmux" update success
+[2024-10-02 15:28:52.470]	   "tmux-pain-control" update success
+[2024-10-02 15:28:52.473]	     | Already up to date.
+[2024-10-02 15:28:52.474]	     | Already up to date.
+[2024-10-02 15:28:52.487]	   "tmux" update success
+[2024-10-02 15:28:52.490]	     | Already up to date.
+[2024-10-02 15:28:52.505]	   "tmux-battery" update success
+[2024-10-02 15:28:52.508]	     | Already up to date.
+[2024-10-02 15:28:52.524]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:28:52.632]	 Done.
+
+[2024-10-02 15:28:59.960]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest catppuccin/tmux tmux-plugins/tmux-battery
+[2024-10-02 15:28:59.969]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:29:00.153]	 Already installed "tmux-cpu"
+[2024-10-02 15:29:00.153]	 Already installed "tmux-continuum"
+[2024-10-02 15:29:00.153]	 Already installed "tmux-copycat"
+[2024-10-02 15:29:00.153]	 Already installed "tmux-sensible"
+[2024-10-02 15:29:00.154]	 Already installed "tmux-resurrect"
+[2024-10-02 15:29:00.154]	 Already installed "tmux-pain-control"
+[2024-10-02 15:29:00.154]	 Already installed "tmux"
+[2024-10-02 15:29:00.155]	 Already installed "tmux-battery"
+[2024-10-02 15:29:00.156]	 Already installed "tmux"
+[2024-10-02 15:29:00.166]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:29:00.279]	 Updating all plugins!
+[2024-10-02 15:29:00.279]	 
+[2024-10-02 15:29:00.635]	   "tmux-copycat" update success
+[2024-10-02 15:29:00.637]	     | Already up to date.
+[2024-10-02 15:29:00.660]	   "tmux-cpu" update success
+[2024-10-02 15:29:00.663]	   "tmux-continuum" update success
+[2024-10-02 15:29:00.663]	     | Already up to date.
+[2024-10-02 15:29:00.666]	     | Already up to date.
+[2024-10-02 15:29:00.687]	   "tmux-resurrect" update success
+[2024-10-02 15:29:00.689]	     | Already up to date.
+[2024-10-02 15:29:00.691]	   "tmux-pain-control" update success
+[2024-10-02 15:29:00.693]	     | Already up to date.
+[2024-10-02 15:29:00.711]	   "tmux" update success
+[2024-10-02 15:29:00.712]	     | Already up to date.
+[2024-10-02 15:29:00.716]	   "tmux-sensible" update success
+[2024-10-02 15:29:00.718]	     | Already up to date.
+[2024-10-02 15:29:00.728]	   "tmux" update success
+[2024-10-02 15:29:00.729]	     | Already up to date.
+[2024-10-02 15:29:00.763]	   "tmux-battery" update success
+[2024-10-02 15:29:00.764]	     | Already up to date.
+[2024-10-02 15:29:00.773]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:29:00.814]	 Done.
+
+[2024-10-02 15:29:33.789]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest catppuccin/tmux tmux-plugins/tmux-battery
+[2024-10-02 15:29:33.798]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:29:33.980]	 Already installed "tmux-continuum"
+[2024-10-02 15:29:33.982]	 Already installed "tmux-copycat"
+[2024-10-02 15:29:33.982]	 Already installed "tmux-cpu"
+[2024-10-02 15:29:33.982]	 Already installed "tmux-resurrect"
+[2024-10-02 15:29:33.983]	 Already installed "tmux-pain-control"
+[2024-10-02 15:29:33.984]	 Already installed "tmux"
+[2024-10-02 15:29:33.984]	 Already installed "tmux"
+[2024-10-02 15:29:33.984]	 Already installed "tmux-sensible"
+[2024-10-02 15:29:33.986]	 Already installed "tmux-battery"
+[2024-10-02 15:29:33.995]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:29:34.109]	 Updating all plugins!
+[2024-10-02 15:29:34.109]	 
+[2024-10-02 15:29:34.471]	   "tmux-copycat" update success
+[2024-10-02 15:29:34.471]	   "tmux-cpu" update success
+[2024-10-02 15:29:34.472]	     | Already up to date.
+[2024-10-02 15:29:34.472]	     | Already up to date.
+[2024-10-02 15:29:34.484]	   "tmux-resurrect" update success
+[2024-10-02 15:29:34.485]	     | Already up to date.
+[2024-10-02 15:29:34.556]	   "tmux-sensible" update success
+[2024-10-02 15:29:34.558]	     | Already up to date.
+[2024-10-02 15:29:34.563]	   "tmux-pain-control" update success
+[2024-10-02 15:29:34.565]	   "tmux" update success
+[2024-10-02 15:29:34.565]	     | Already up to date.
+[2024-10-02 15:29:34.566]	     | Already up to date.
+[2024-10-02 15:29:34.577]	   "tmux" update success
+[2024-10-02 15:29:34.578]	   "tmux-continuum" update success
+[2024-10-02 15:29:34.578]	     | Already up to date.
+[2024-10-02 15:29:34.579]	     | Already up to date.
+[2024-10-02 15:29:34.586]	   "tmux-battery" update success
+[2024-10-02 15:29:34.587]	     | Already up to date.
+[2024-10-02 15:29:34.596]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:29:34.638]	 Done.
+
+[2024-10-02 15:29:46.703]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest catppuccin/tmux tmux-plugins/tmux-battery
+[2024-10-02 15:29:46.712]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:29:46.714]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest catppuccin/tmux tmux-plugins/tmux-battery
+[2024-10-02 15:29:46.723]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:29:46.908]	 Already installed "tmux-cpu"
+[2024-10-02 15:29:46.915]	 Already installed "tmux-pain-control"
+[2024-10-02 15:29:46.915]	 Already installed "tmux-continuum"
+[2024-10-02 15:29:46.915]	 Already installed "tmux-sensible"
+[2024-10-02 15:29:46.917]	 Already installed "tmux-copycat"
+[2024-10-02 15:29:46.919]	 Already installed "tmux-resurrect"
+[2024-10-02 15:29:46.921]	 Already installed "tmux-battery"
+[2024-10-02 15:29:46.921]	 Already installed "tmux"
+[2024-10-02 15:29:46.922]	 Already installed "tmux"
+[2024-10-02 15:29:46.907]	 Already installed "tmux-cpu"
+[2024-10-02 15:29:46.911]	 Already installed "tmux-copycat"
+[2024-10-02 15:29:46.916]	 Already installed "tmux-resurrect"
+[2024-10-02 15:29:46.922]	 Already installed "tmux"
+[2024-10-02 15:29:46.922]	 Already installed "tmux-sensible"
+[2024-10-02 15:29:46.923]	 Already installed "tmux-continuum"
+[2024-10-02 15:29:46.923]	 Already installed "tmux-pain-control"
+[2024-10-02 15:29:46.924]	 Already installed "tmux"
+[2024-10-02 15:29:46.925]	 Already installed "tmux-battery"
+[2024-10-02 15:29:46.932]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:29:46.934]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:29:47.048]	 Updating all plugins!
+[2024-10-02 15:29:47.048]	 
+[2024-10-02 15:29:47.419]	   "tmux-copycat" update success
+[2024-10-02 15:29:47.420]	   "tmux-cpu" update success
+[2024-10-02 15:29:47.423]	     | Already up to date.
+[2024-10-02 15:29:47.424]	     | Already up to date.
+[2024-10-02 15:29:47.533]	   "tmux-resurrect" update success
+[2024-10-02 15:29:47.537]	     | Already up to date.
+[2024-10-02 15:29:47.562]	   "tmux-pain-control" update success
+[2024-10-02 15:29:47.562]	   "tmux-sensible" update success
+[2024-10-02 15:29:47.565]	   "tmux-continuum" update success
+[2024-10-02 15:29:47.566]	     | Already up to date.
+[2024-10-02 15:29:47.568]	     | Already up to date.
+[2024-10-02 15:29:47.570]	     | Already up to date.
+[2024-10-02 15:29:47.588]	   "tmux" update success
+[2024-10-02 15:29:47.592]	   "tmux" update success
+[2024-10-02 15:29:47.592]	     | Already up to date.
+[2024-10-02 15:29:47.595]	     | Already up to date.
+[2024-10-02 15:29:47.623]	   "tmux-battery" update success
+[2024-10-02 15:29:47.625]	     | Already up to date.
+[2024-10-02 15:29:47.635]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:29:47.678]	 Done.
+
+[2024-10-02 15:29:47.048]	 Updating all plugins!
+[2024-10-02 15:29:47.048]	 
+[2024-10-02 15:29:47.508]	   "tmux-continuum" update success
+[2024-10-02 15:29:47.515]	     | Already up to date.
+[2024-10-02 15:29:47.522]	   "tmux-cpu" update success
+[2024-10-02 15:29:47.530]	     | Already up to date.
+[2024-10-02 15:29:47.535]	   "tmux-pain-control" update success
+[2024-10-02 15:29:47.541]	     | Already up to date.
+[2024-10-02 15:29:47.554]	   "tmux-resurrect" update success
+[2024-10-02 15:29:47.560]	     | Already up to date.
+[2024-10-02 15:29:47.573]	   "tmux-sensible" update success
+[2024-10-02 15:29:47.575]	     | Already up to date.
+[2024-10-02 15:29:47.596]	   "tmux" update success
+[2024-10-02 15:29:47.598]	     | Already up to date.
+[2024-10-02 15:29:47.607]	   "tmux" update success
+[2024-10-02 15:29:47.608]	     | Already up to date.
+[2024-10-02 15:29:47.612]	   "tmux-battery" update success
+[2024-10-02 15:29:47.614]	     | Already up to date.
+[2024-10-02 15:29:48.145]	   "tmux-copycat" update success
+[2024-10-02 15:29:48.147]	     | Already up to date.
+[2024-10-02 15:29:48.156]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:29:48.177]	 Removing "tmux"
+[2024-10-02 15:29:48.188]	   "tmux" clean success
+[2024-10-02 15:29:48.189]	 Removing "tmux-battery"
+[2024-10-02 15:29:48.194]	   "tmux-battery" clean success
+[2024-10-02 15:29:48.195]	 Removing "tmux-continuum"
+[2024-10-02 15:29:48.202]	   "tmux-continuum" clean success
+[2024-10-02 15:29:48.204]	 Removing "tmux-copycat"
+[2024-10-02 15:29:48.209]	   "tmux-copycat" clean success
+[2024-10-02 15:29:48.210]	 Removing "tmux-cpu"
+[2024-10-02 15:29:48.215]	   "tmux-cpu" clean success
+[2024-10-02 15:29:48.216]	 Removing "tmux-pain-control"
+[2024-10-02 15:29:48.220]	   "tmux-pain-control" clean success
+[2024-10-02 15:29:48.222]	 Removing "tmux-resurrect"
+[2024-10-02 15:29:48.231]	   "tmux-resurrect" clean success
+[2024-10-02 15:29:48.232]	 Removing "tmux-sensible"
+[2024-10-02 15:29:48.235]	   "tmux-sensible" clean success
+[2024-10-02 15:29:48.246]	 Done.
+
+[2024-10-02 15:30:18.306]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-battery tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest catppuccin/tmux
+[2024-10-02 15:30:18.315]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:30:18.319]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-battery tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest catppuccin/tmux
+[2024-10-02 15:30:18.328]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:30:18.492]	 Installing "tmux-copycat"
+[2024-10-02 15:30:18.493]	 Installing "tmux-cpu"
+[2024-10-02 15:30:18.495]	 Installing "tmux-resurrect"
+[2024-10-02 15:30:18.497]	 Installing "tmux-pain-control"
+[2024-10-02 15:30:18.500]	 Installing "tmux-continuum"
+[2024-10-02 15:30:18.501]	 Installing "tmux"
+[2024-10-02 15:30:18.501]	 Installing "tmux-battery"
+[2024-10-02 15:30:18.502]	 Installing "tmux"
+[2024-10-02 15:30:18.505]	 Installing "tmux-sensible"
+[2024-10-02 15:30:18.555]	   "tmux" download fail
+[2024-10-02 15:30:18.564]	   "tmux-cpu" download fail
+[2024-10-02 15:30:18.565]	   "tmux-copycat" download fail
+[2024-10-02 15:30:18.565]	   "tmux-battery" download fail
+[2024-10-02 15:30:18.565]	   "tmux-resurrect" download fail
+[2024-10-02 15:30:18.569]	   "tmux" download fail
+[2024-10-02 15:30:18.572]	   "tmux-sensible" download fail
+[2024-10-02 15:30:19.049]	   "tmux-continuum" download success
+[2024-10-02 15:30:19.119]	   "tmux-pain-control" download success
+[2024-10-02 15:30:19.130]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:30:18.491]	 Installing "tmux-copycat"
+[2024-10-02 15:30:18.496]	 Installing "tmux-cpu"
+[2024-10-02 15:30:18.497]	 Installing "tmux-resurrect"
+[2024-10-02 15:30:18.502]	 Installing "tmux-battery"
+[2024-10-02 15:30:18.502]	 Installing "tmux"
+[2024-10-02 15:30:18.504]	 Installing "tmux-continuum"
+[2024-10-02 15:30:18.505]	 Installing "tmux-sensible"
+[2024-10-02 15:30:18.506]	 Installing "tmux-pain-control"
+[2024-10-02 15:30:18.507]	 Installing "tmux"
+[2024-10-02 15:30:18.565]	   "tmux-continuum" download fail
+[2024-10-02 15:30:18.573]	   "tmux-pain-control" download fail
+[2024-10-02 15:30:18.575]	   "tmux" download fail
+[2024-10-02 15:30:19.049]	   "tmux-sensible" download success
+[2024-10-02 15:30:19.052]	   "tmux-cpu" download success
+[2024-10-02 15:30:19.067]	   "tmux-copycat" download success
+[2024-10-02 15:30:19.107]	   "tmux" download success
+[2024-10-02 15:30:19.119]	   "tmux-battery" download success
+[2024-10-02 15:30:19.537]	   "tmux-resurrect" download success
+[2024-10-02 15:30:19.547]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:30:19.277]	 Updating all plugins!
+[2024-10-02 15:30:19.277]	 
+[2024-10-02 15:30:19.656]	   "tmux-continuum" update success
+[2024-10-02 15:30:19.660]	     | Already up to date.
+[2024-10-02 15:30:19.663]	   "tmux-resurrect" update success
+[2024-10-02 15:30:19.666]	     | Already up to date.
+[2024-10-02 15:30:19.667]	   "tmux-cpu" update success
+[2024-10-02 15:30:19.669]	   "tmux-copycat" update success
+[2024-10-02 15:30:19.670]	     | Already up to date.
+[2024-10-02 15:30:19.673]	     | Already up to date.
+[2024-10-02 15:30:19.690]	   "tmux-battery" update success
+[2024-10-02 15:30:19.694]	     | Already up to date.
+[2024-10-02 15:30:19.740]	   "tmux-pain-control" update success
+[2024-10-02 15:30:19.743]	     | Already up to date.
+[2024-10-02 15:30:19.751]	   "tmux-sensible" update success
+[2024-10-02 15:30:19.754]	     | Already up to date.
+[2024-10-02 15:30:19.766]	   "tmux" update success
+[2024-10-02 15:30:19.767]	   "tmux" update success
+[2024-10-02 15:30:19.768]	     | Already up to date.
+[2024-10-02 15:30:19.768]	     | Already up to date.
+[2024-10-02 15:30:19.779]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:30:19.834]	 Done.
+
+[2024-10-02 15:30:19.559]	 Updating all plugins!
+[2024-10-02 15:30:19.560]	 
+[2024-10-02 15:30:19.909]	   "tmux-copycat" update success
+[2024-10-02 15:30:19.910]	     | Already up to date.
+[2024-10-02 15:30:19.921]	   "tmux-cpu" update success
+[2024-10-02 15:30:19.923]	     | Already up to date.
+[2024-10-02 15:30:19.951]	   "tmux-continuum" update success
+[2024-10-02 15:30:19.952]	     | Already up to date.
+[2024-10-02 15:30:19.965]	   "tmux-battery" update success
+[2024-10-02 15:30:19.967]	     | Already up to date.
+[2024-10-02 15:30:19.968]	   "tmux-resurrect" update success
+[2024-10-02 15:30:19.969]	     | Already up to date.
+[2024-10-02 15:30:20.019]	   "tmux-pain-control" update success
+[2024-10-02 15:30:20.020]	     | Already up to date.
+[2024-10-02 15:30:20.040]	   "tmux" update success
+[2024-10-02 15:30:20.041]	     | Already up to date.
+[2024-10-02 15:30:20.047]	   "tmux-sensible" update success
+[2024-10-02 15:30:20.048]	     | Already up to date.
+[2024-10-02 15:30:20.056]	   "tmux" update success
+[2024-10-02 15:30:20.057]	     | Already up to date.
+[2024-10-02 15:30:20.067]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:30:20.087]	 Removing "tmux"
+[2024-10-02 15:30:20.096]	   "tmux" clean success
+[2024-10-02 15:30:20.097]	 Removing "tmux-battery"
+[2024-10-02 15:30:20.101]	   "tmux-battery" clean success
+[2024-10-02 15:30:20.103]	 Removing "tmux-continuum"
+[2024-10-02 15:30:20.107]	   "tmux-continuum" clean success
+[2024-10-02 15:30:20.109]	 Removing "tmux-copycat"
+[2024-10-02 15:30:20.113]	   "tmux-copycat" clean success
+[2024-10-02 15:30:20.115]	 Removing "tmux-cpu"
+[2024-10-02 15:30:20.119]	   "tmux-cpu" clean success
+[2024-10-02 15:30:20.121]	 Removing "tmux-pain-control"
+[2024-10-02 15:30:20.124]	   "tmux-pain-control" clean success
+[2024-10-02 15:30:20.126]	 Removing "tmux-resurrect"
+[2024-10-02 15:30:20.133]	   "tmux-resurrect" clean success
+[2024-10-02 15:30:20.135]	 Removing "tmux-sensible"
+[2024-10-02 15:30:20.138]	   "tmux-sensible" clean success
+[2024-10-02 15:30:20.149]	 Done.
+
+[2024-10-02 15:30:42.782]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-battery tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest catppuccin/tmux
+[2024-10-02 15:30:42.791]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:30:42.961]	 Installing "tmux-cpu"
+[2024-10-02 15:30:42.962]	 Installing "tmux-copycat"
+[2024-10-02 15:30:42.962]	 Installing "tmux-resurrect"
+[2024-10-02 15:30:42.963]	 Installing "tmux-continuum"
+[2024-10-02 15:30:42.964]	 Installing "tmux-battery"
+[2024-10-02 15:30:42.967]	 Installing "tmux-sensible"
+[2024-10-02 15:30:42.967]	 Installing "tmux-pain-control"
+[2024-10-02 15:30:42.967]	 Installing "tmux"
+[2024-10-02 15:30:42.968]	 Installing "tmux"
+[2024-10-02 15:30:43.004]	   "tmux" download fail
+[2024-10-02 15:30:43.502]	   "tmux-cpu" download success
+[2024-10-02 15:30:43.506]	   "tmux-sensible" download success
+[2024-10-02 15:30:43.509]	   "tmux-continuum" download success
+[2024-10-02 15:30:43.532]	   "tmux-copycat" download success
+[2024-10-02 15:30:43.548]	   "tmux-pain-control" download success
+[2024-10-02 15:30:43.555]	   "tmux-battery" download success
+[2024-10-02 15:30:43.557]	   "tmux" download success
+[2024-10-02 15:30:43.984]	   "tmux-resurrect" download success
+[2024-10-02 15:30:43.995]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:30:44.152]	 Updating all plugins!
+[2024-10-02 15:30:44.153]	 
+[2024-10-02 15:30:44.510]	   "tmux-resurrect" update success
+[2024-10-02 15:30:44.513]	     | Already up to date.
+[2024-10-02 15:30:44.513]	   "tmux-cpu" update success
+[2024-10-02 15:30:44.515]	     | Already up to date.
+[2024-10-02 15:30:44.525]	   "tmux-copycat" update success
+[2024-10-02 15:30:44.527]	     | Already up to date.
+[2024-10-02 15:30:44.555]	   "tmux-continuum" update success
+[2024-10-02 15:30:44.556]	   "tmux-battery" update success
+[2024-10-02 15:30:44.558]	     | Already up to date.
+[2024-10-02 15:30:44.558]	     | Already up to date.
+[2024-10-02 15:30:44.565]	   "tmux-pain-control" update success
+[2024-10-02 15:30:44.565]	   "tmux-sensible" update success
+[2024-10-02 15:30:44.567]	     | Already up to date.
+[2024-10-02 15:30:44.567]	     | Already up to date.
+[2024-10-02 15:30:44.573]	   "tmux" update success
+[2024-10-02 15:30:44.574]	     | Already up to date.
+[2024-10-02 15:30:44.592]	   "tmux" update success
+[2024-10-02 15:30:44.594]	     | Already up to date.
+[2024-10-02 15:30:44.603]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:30:44.642]	 Done.
+
+[2024-10-02 15:30:51.941]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-battery tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest catppuccin/tmux
+[2024-10-02 15:30:51.950]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:30:52.205]	 Already installed "tmux-continuum"
+[2024-10-02 15:30:52.208]	 Already installed "tmux-cpu"
+[2024-10-02 15:30:52.208]	 Already installed "tmux-copycat"
+[2024-10-02 15:30:52.208]	 Already installed "tmux-sensible"
+[2024-10-02 15:30:52.211]	 Already installed "tmux-pain-control"
+[2024-10-02 15:30:52.212]	 Already installed "tmux-resurrect"
+[2024-10-02 15:30:52.212]	 Already installed "tmux-battery"
+[2024-10-02 15:30:52.213]	 Already installed "tmux"
+[2024-10-02 15:30:52.216]	 Already installed "tmux"
+[2024-10-02 15:30:52.237]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:30:52.531]	 Updating all plugins!
+[2024-10-02 15:30:52.533]	 
+[2024-10-02 15:30:53.125]	   "tmux-continuum" update success
+[2024-10-02 15:30:53.128]	     | Already up to date.
+[2024-10-02 15:30:53.138]	   "tmux-cpu" update success
+[2024-10-02 15:30:53.139]	   "tmux-resurrect" update success
+[2024-10-02 15:30:53.141]	   "tmux-copycat" update success
+[2024-10-02 15:30:53.142]	     | Already up to date.
+[2024-10-02 15:30:53.142]	     | Already up to date.
+[2024-10-02 15:30:53.145]	     | Already up to date.
+[2024-10-02 15:30:53.186]	   "tmux-pain-control" update success
+[2024-10-02 15:30:53.190]	     | Already up to date.
+[2024-10-02 15:30:53.190]	   "tmux-battery" update success
+[2024-10-02 15:30:53.196]	     | Already up to date.
+[2024-10-02 15:30:53.207]	   "tmux-sensible" update success
+[2024-10-02 15:30:53.210]	     | Already up to date.
+[2024-10-02 15:30:53.238]	   "tmux" update success
+[2024-10-02 15:30:53.241]	     | Already up to date.
+[2024-10-02 15:30:53.283]	   "tmux" update success
+[2024-10-02 15:30:53.285]	     | Already up to date.
+[2024-10-02 15:30:53.296]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:30:53.356]	 Done.
+
+[2024-10-02 15:31:29.234]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-battery tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:31:29.243]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:31:29.420]	 Already installed "tmux-continuum"
+[2024-10-02 15:31:29.421]	 Already installed "tmux-cpu"
+[2024-10-02 15:31:29.421]	 Already installed "tmux-resurrect"
+[2024-10-02 15:31:29.421]	 Already installed "tmux-copycat"
+[2024-10-02 15:31:29.422]	 Already installed "tmux-sensible"
+[2024-10-02 15:31:29.422]	 Already installed "tmux"
+[2024-10-02 15:31:29.422]	 Already installed "tmux-battery"
+[2024-10-02 15:31:29.423]	 Already installed "tmux-pain-control"
+[2024-10-02 15:31:29.432]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:31:29.545]	 Updating all plugins!
+[2024-10-02 15:31:29.545]	 
+[2024-10-02 15:31:29.927]	   "tmux-cpu" update success
+[2024-10-02 15:31:29.930]	     | Already up to date.
+[2024-10-02 15:31:29.939]	   "tmux-copycat" update success
+[2024-10-02 15:31:29.941]	     | Already up to date.
+[2024-10-02 15:31:29.946]	   "tmux-resurrect" update success
+[2024-10-02 15:31:29.948]	     | Already up to date.
+[2024-10-02 15:31:29.948]	   "tmux-continuum" update success
+[2024-10-02 15:31:29.950]	     | Already up to date.
+[2024-10-02 15:31:29.979]	   "tmux-pain-control" update success
+[2024-10-02 15:31:29.981]	     | Already up to date.
+[2024-10-02 15:31:29.986]	   "tmux" update success
+[2024-10-02 15:31:29.987]	     | Already up to date.
+[2024-10-02 15:31:30.003]	   "tmux-battery" update success
+[2024-10-02 15:31:30.004]	     | Already up to date.
+[2024-10-02 15:31:30.009]	   "tmux-sensible" update success
+[2024-10-02 15:31:30.011]	     | Already up to date.
+[2024-10-02 15:31:30.020]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:31:30.062]	 Done.
+
+[2024-10-02 15:31:46.960]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:31:46.969]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:31:46.982]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:31:46.991]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:31:47.153]	 Already installed "tmux-continuum"
+[2024-10-02 15:31:47.155]	 Already installed "tmux-copycat"
+[2024-10-02 15:31:47.155]	 Already installed "tmux-pain-control"
+[2024-10-02 15:31:47.155]	 Already installed "tmux-cpu"
+[2024-10-02 15:31:47.157]	 Already installed "tmux-resurrect"
+[2024-10-02 15:31:47.158]	 Already installed "tmux"
+[2024-10-02 15:31:47.159]	 Already installed "tmux-sensible"
+[2024-10-02 15:31:47.150]	 Already installed "tmux-copycat"
+[2024-10-02 15:31:47.153]	 Already installed "tmux-resurrect"
+[2024-10-02 15:31:47.157]	 Already installed "tmux-cpu"
+[2024-10-02 15:31:47.158]	 Already installed "tmux-continuum"
+[2024-10-02 15:31:47.158]	 Already installed "tmux-sensible"
+[2024-10-02 15:31:47.160]	 Already installed "tmux-pain-control"
+[2024-10-02 15:31:47.161]	 Already installed "tmux"
+[2024-10-02 15:31:47.168]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:31:47.170]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:31:47.280]	 Updating all plugins!
+[2024-10-02 15:31:47.280]	 
+[2024-10-02 15:31:47.638]	   "tmux-copycat" update success
+[2024-10-02 15:31:47.640]	     | Already up to date.
+[2024-10-02 15:31:47.655]	   "tmux-cpu" update success
+[2024-10-02 15:31:47.659]	     | Already up to date.
+[2024-10-02 15:31:47.748]	   "tmux-resurrect" update success
+[2024-10-02 15:31:47.751]	     | Already up to date.
+[2024-10-02 15:31:47.758]	   "tmux-continuum" update success
+[2024-10-02 15:31:47.761]	     | Already up to date.
+[2024-10-02 15:31:47.768]	   "tmux-sensible" update success
+[2024-10-02 15:31:47.771]	     | Already up to date.
+[2024-10-02 15:31:47.773]	   "tmux-pain-control" update success
+[2024-10-02 15:31:47.775]	     | Already up to date.
+[2024-10-02 15:31:47.778]	   "tmux" update success
+[2024-10-02 15:31:47.780]	     | Already up to date.
+[2024-10-02 15:31:47.791]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:31:47.280]	 Updating all plugins!
+[2024-10-02 15:31:47.280]	 
+[2024-10-02 15:31:47.677]	   "tmux-copycat" update success
+[2024-10-02 15:31:47.680]	     | Already up to date.
+[2024-10-02 15:31:47.681]	   "tmux-cpu" update success
+[2024-10-02 15:31:47.684]	     | Already up to date.
+[2024-10-02 15:31:47.708]	   "tmux-resurrect" update success
+[2024-10-02 15:31:47.715]	     | Already up to date.
+[2024-10-02 15:31:47.756]	   "tmux-continuum" update success
+[2024-10-02 15:31:47.760]	     | Already up to date.
+[2024-10-02 15:31:47.782]	   "tmux-pain-control" update success
+[2024-10-02 15:31:47.783]	   "tmux" update success
+[2024-10-02 15:31:47.783]	     | Already up to date.
+[2024-10-02 15:31:47.784]	     | Already up to date.
+[2024-10-02 15:31:47.793]	   "tmux-sensible" update success
+[2024-10-02 15:31:47.794]	     | Already up to date.
+[2024-10-02 15:31:47.804]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:31:47.818]	 Removing "tmux-battery"
+[2024-10-02 15:31:47.823]	   "tmux-battery" clean success
+[2024-10-02 15:31:47.843]	 Done.
+
+[2024-10-02 15:31:47.847]	 Done.
+
+[2024-10-02 15:32:01.510]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:32:01.519]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:32:01.532]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:32:01.540]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:32:01.702]	 Already installed "tmux-continuum"
+[2024-10-02 15:32:01.704]	 Already installed "tmux-copycat"
+[2024-10-02 15:32:01.706]	 Already installed "tmux-resurrect"
+[2024-10-02 15:32:01.706]	 Already installed "tmux-pain-control"
+[2024-10-02 15:32:01.708]	 Already installed "tmux-cpu"
+[2024-10-02 15:32:01.709]	 Already installed "tmux"
+[2024-10-02 15:32:01.709]	 Already installed "tmux-sensible"
+[2024-10-02 15:32:01.704]	 Already installed "tmux-cpu"
+[2024-10-02 15:32:01.706]	 Already installed "tmux-copycat"
+[2024-10-02 15:32:01.707]	 Already installed "tmux-sensible"
+[2024-10-02 15:32:01.708]	 Already installed "tmux-continuum"
+[2024-10-02 15:32:01.708]	 Already installed "tmux-pain-control"
+[2024-10-02 15:32:01.708]	 Already installed "tmux-resurrect"
+[2024-10-02 15:32:01.709]	 Already installed "tmux"
+[2024-10-02 15:32:01.719]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:32:01.719]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:32:01.834]	 Updating all plugins!
+[2024-10-02 15:32:01.834]	 
+[2024-10-02 15:32:02.208]	   "tmux-copycat" update success
+[2024-10-02 15:32:02.213]	     | Already up to date.
+[2024-10-02 15:32:02.234]	   "tmux-cpu" update success
+[2024-10-02 15:32:02.237]	     | Already up to date.
+[2024-10-02 15:32:02.261]	   "tmux-continuum" update success
+[2024-10-02 15:32:02.265]	     | Already up to date.
+[2024-10-02 15:32:02.289]	   "tmux-resurrect" update success
+[2024-10-02 15:32:02.292]	     | Already up to date.
+[2024-10-02 15:32:02.306]	   "tmux-pain-control" update success
+[2024-10-02 15:32:02.308]	     | Already up to date.
+[2024-10-02 15:32:02.312]	   "tmux-sensible" update success
+[2024-10-02 15:32:02.314]	     | Already up to date.
+[2024-10-02 15:32:02.320]	   "tmux" update success
+[2024-10-02 15:32:02.322]	     | Already up to date.
+[2024-10-02 15:32:02.332]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:32:01.834]	 Updating all plugins!
+[2024-10-02 15:32:01.834]	 
+[2024-10-02 15:32:02.216]	   "tmux-copycat" update success
+[2024-10-02 15:32:02.219]	     | Already up to date.
+[2024-10-02 15:32:02.267]	   "tmux-resurrect" update success
+[2024-10-02 15:32:02.270]	     | Already up to date.
+[2024-10-02 15:32:02.283]	   "tmux-cpu" update success
+[2024-10-02 15:32:02.287]	     | Already up to date.
+[2024-10-02 15:32:02.296]	   "tmux-continuum" update success
+[2024-10-02 15:32:02.299]	     | Already up to date.
+[2024-10-02 15:32:02.300]	   "tmux-pain-control" update success
+[2024-10-02 15:32:02.303]	     | Already up to date.
+[2024-10-02 15:32:02.341]	   "tmux-sensible" update success
+[2024-10-02 15:32:02.342]	     | Already up to date.
+[2024-10-02 15:32:02.354]	   "tmux" update success
+[2024-10-02 15:32:02.355]	     | Already up to date.
+[2024-10-02 15:32:02.365]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:32:02.375]	 Done.
+
+[2024-10-02 15:32:02.406]	 Done.
+
+[2024-10-02 15:32:17.328]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:32:17.337]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:32:17.535]	 Already installed "tmux-cpu"
+[2024-10-02 15:32:17.536]	 Already installed "tmux-resurrect"
+[2024-10-02 15:32:17.536]	 Already installed "tmux-copycat"
+[2024-10-02 15:32:17.538]	 Already installed "tmux-pain-control"
+[2024-10-02 15:32:17.539]	 Already installed "tmux-continuum"
+[2024-10-02 15:32:17.539]	 Already installed "tmux"
+[2024-10-02 15:32:17.540]	 Already installed "tmux-sensible"
+[2024-10-02 15:32:17.551]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:32:17.676]	 Updating all plugins!
+[2024-10-02 15:32:17.677]	 
+[2024-10-02 15:32:18.175]	   "tmux-copycat" update success
+[2024-10-02 15:32:18.182]	     | Already up to date.
+[2024-10-02 15:32:18.191]	   "tmux-cpu" update success
+[2024-10-02 15:32:18.196]	     | Already up to date.
+[2024-10-02 15:32:18.212]	   "tmux-resurrect" update success
+[2024-10-02 15:32:18.218]	     | Already up to date.
+[2024-10-02 15:32:18.254]	   "tmux-continuum" update success
+[2024-10-02 15:32:18.261]	     | Already up to date.
+[2024-10-02 15:32:18.262]	   "tmux-pain-control" update success
+[2024-10-02 15:32:18.267]	     | Already up to date.
+[2024-10-02 15:32:18.303]	   "tmux-sensible" update success
+[2024-10-02 15:32:18.306]	     | Already up to date.
+[2024-10-02 15:32:18.311]	   "tmux" update success
+[2024-10-02 15:32:18.316]	     | Already up to date.
+[2024-10-02 15:32:18.330]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:32:18.417]	 Done.
+
+[2024-10-02 15:32:40.812]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:32:40.812]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:32:40.822]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:32:40.822]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:32:41.021]	 Already installed "tmux-cpu"
+[2024-10-02 15:32:41.022]	 Already installed "tmux"
+[2024-10-02 15:32:41.022]	 Already installed "tmux-sensible"
+[2024-10-02 15:32:41.023]	 Already installed "tmux-pain-control"
+[2024-10-02 15:32:41.023]	 Already installed "tmux-resurrect"
+[2024-10-02 15:32:41.023]	 Already installed "tmux-copycat"
+[2024-10-02 15:32:41.024]	 Already installed "tmux-continuum"
+[2024-10-02 15:32:41.021]	 Already installed "tmux-cpu"
+[2024-10-02 15:32:41.022]	 Already installed "tmux-copycat"
+[2024-10-02 15:32:41.022]	 Already installed "tmux-sensible"
+[2024-10-02 15:32:41.023]	 Already installed "tmux-resurrect"
+[2024-10-02 15:32:41.024]	 Already installed "tmux"
+[2024-10-02 15:32:41.025]	 Already installed "tmux-pain-control"
+[2024-10-02 15:32:41.025]	 Already installed "tmux-continuum"
+[2024-10-02 15:32:41.034]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:32:41.034]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:32:41.149]	 Updating all plugins!
+[2024-10-02 15:32:41.149]	 
+[2024-10-02 15:32:41.540]	   "tmux-copycat" update success
+[2024-10-02 15:32:41.544]	     | Already up to date.
+[2024-10-02 15:32:41.565]	   "tmux-resurrect" update success
+[2024-10-02 15:32:41.567]	     | Already up to date.
+[2024-10-02 15:32:41.568]	   "tmux-cpu" update success
+[2024-10-02 15:32:41.570]	     | Already up to date.
+[2024-10-02 15:32:41.581]	   "tmux-continuum" update success
+[2024-10-02 15:32:41.584]	     | Already up to date.
+[2024-10-02 15:32:41.595]	   "tmux-pain-control" update success
+[2024-10-02 15:32:41.597]	     | Already up to date.
+[2024-10-02 15:32:41.634]	   "tmux-sensible" update success
+[2024-10-02 15:32:41.635]	     | Already up to date.
+[2024-10-02 15:32:41.687]	   "tmux" update success
+[2024-10-02 15:32:41.688]	     | Already up to date.
+[2024-10-02 15:32:41.149]	 Updating all plugins!
+[2024-10-02 15:32:41.149]	 
+[2024-10-02 15:32:41.539]	   "tmux-cpu" update success
+[2024-10-02 15:32:41.542]	   "tmux-copycat" update success
+[2024-10-02 15:32:41.543]	     | Already up to date.
+[2024-10-02 15:32:41.544]	     | Already up to date.
+[2024-10-02 15:32:41.592]	   "tmux-resurrect" update success
+[2024-10-02 15:32:41.594]	     | Already up to date.
+[2024-10-02 15:32:41.600]	   "tmux-pain-control" update success
+[2024-10-02 15:32:41.602]	     | Already up to date.
+[2024-10-02 15:32:41.632]	   "tmux-sensible" update success
+[2024-10-02 15:32:41.633]	     | Already up to date.
+[2024-10-02 15:32:41.634]	   "tmux-continuum" update success
+[2024-10-02 15:32:41.635]	     | Already up to date.
+[2024-10-02 15:32:41.691]	   "tmux" update success
+[2024-10-02 15:32:41.692]	     | Already up to date.
+[2024-10-02 15:32:41.698]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:32:41.702]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:32:41.741]	 Done.
+
+[2024-10-02 15:32:41.743]	 Done.
+
+[2024-10-02 15:33:16.118]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:33:16.126]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:33:16.127]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:33:16.135]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:33:16.315]	 Already installed "tmux-copycat"
+[2024-10-02 15:33:16.321]	 Already installed "tmux-resurrect"
+[2024-10-02 15:33:16.321]	 Already installed "tmux-continuum"
+[2024-10-02 15:33:16.321]	 Already installed "tmux-cpu"
+[2024-10-02 15:33:16.322]	 Already installed "tmux-sensible"
+[2024-10-02 15:33:16.322]	 Already installed "tmux-pain-control"
+[2024-10-02 15:33:16.323]	 Already installed "tmux"
+[2024-10-02 15:33:16.316]	 Already installed "tmux-cpu"
+[2024-10-02 15:33:16.317]	 Already installed "tmux-copycat"
+[2024-10-02 15:33:16.321]	 Already installed "tmux-continuum"
+[2024-10-02 15:33:16.321]	 Already installed "tmux-resurrect"
+[2024-10-02 15:33:16.324]	 Already installed "tmux-pain-control"
+[2024-10-02 15:33:16.325]	 Already installed "tmux-sensible"
+[2024-10-02 15:33:16.327]	 Already installed "tmux"
+[2024-10-02 15:33:16.332]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:33:16.337]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:33:16.448]	 Updating all plugins!
+[2024-10-02 15:33:16.448]	 
+[2024-10-02 15:33:16.900]	   "tmux-cpu" update success
+[2024-10-02 15:33:16.906]	     | Already up to date.
+[2024-10-02 15:33:16.923]	   "tmux-resurrect" update success
+[2024-10-02 15:33:16.929]	     | Already up to date.
+[2024-10-02 15:33:16.945]	   "tmux-copycat" update success
+[2024-10-02 15:33:16.947]	   "tmux-pain-control" update success
+[2024-10-02 15:33:16.947]	   "tmux-continuum" update success
+[2024-10-02 15:33:16.949]	     | Already up to date.
+[2024-10-02 15:33:16.950]	     | Already up to date.
+[2024-10-02 15:33:16.952]	     | Already up to date.
+[2024-10-02 15:33:16.960]	   "tmux" update success
+[2024-10-02 15:33:16.962]	     | Already up to date.
+[2024-10-02 15:33:16.965]	   "tmux-sensible" update success
+[2024-10-02 15:33:16.966]	     | Already up to date.
+[2024-10-02 15:33:16.976]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:33:16.448]	 Updating all plugins!
+[2024-10-02 15:33:16.448]	 
+[2024-10-02 15:33:16.835]	   "tmux-copycat" update success
+[2024-10-02 15:33:16.840]	     | Already up to date.
+[2024-10-02 15:33:16.865]	   "tmux-cpu" update success
+[2024-10-02 15:33:16.871]	     | Already up to date.
+[2024-10-02 15:33:16.931]	   "tmux-resurrect" update success
+[2024-10-02 15:33:16.936]	     | Already up to date.
+[2024-10-02 15:33:16.938]	   "tmux-continuum" update success
+[2024-10-02 15:33:16.942]	     | Already up to date.
+[2024-10-02 15:33:16.942]	   "tmux-pain-control" update success
+[2024-10-02 15:33:16.946]	     | Already up to date.
+[2024-10-02 15:33:16.975]	   "tmux-sensible" update success
+[2024-10-02 15:33:16.977]	     | Already up to date.
+[2024-10-02 15:33:16.980]	   "tmux" update success
+[2024-10-02 15:33:16.981]	     | Already up to date.
+[2024-10-02 15:33:16.991]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:33:17.024]	 Done.
+
+[2024-10-02 15:33:17.036]	 Done.
+
+[2024-10-02 15:33:46.325]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:33:46.335]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:33:46.467]	 List of discovered tpm plugins: tmux-plugins/tmux-copycat tmux-plugins/tmux-cpu tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-pain-control tmux-plugins/tmux-sensible catppuccin/tmux#latest
+[2024-10-02 15:33:46.476]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/install_plugins
+[2024-10-02 15:33:46.619]	 Already installed "tmux-resurrect"
+[2024-10-02 15:33:46.622]	 Already installed "tmux-copycat"
+[2024-10-02 15:33:46.622]	 Already installed "tmux-cpu"
+[2024-10-02 15:33:46.623]	 Already installed "tmux-pain-control"
+[2024-10-02 15:33:46.627]	 Already installed "tmux"
+[2024-10-02 15:33:46.627]	 Already installed "tmux-continuum"
+[2024-10-02 15:33:46.628]	 Already installed "tmux-sensible"
+[2024-10-02 15:33:46.622]	 Already installed "tmux-copycat"
+[2024-10-02 15:33:46.623]	 Already installed "tmux-resurrect"
+[2024-10-02 15:33:46.626]	 Already installed "tmux-continuum"
+[2024-10-02 15:33:46.627]	 Already installed "tmux-sensible"
+[2024-10-02 15:33:46.628]	 Already installed "tmux-pain-control"
+[2024-10-02 15:33:46.628]	 Already installed "tmux-cpu"
+[2024-10-02 15:33:46.630]	 Already installed "tmux"
+[2024-10-02 15:33:46.637]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:33:46.640]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/update_plugins all
+[2024-10-02 15:33:46.750]	 Updating all plugins!
+[2024-10-02 15:33:46.750]	 
+[2024-10-02 15:33:47.113]	   "tmux-cpu" update success
+[2024-10-02 15:33:47.117]	     | Already up to date.
+[2024-10-02 15:33:47.169]	   "tmux-resurrect" update success
+[2024-10-02 15:33:47.176]	     | Already up to date.
+[2024-10-02 15:33:47.209]	   "tmux-continuum" update success
+[2024-10-02 15:33:47.209]	   "tmux-pain-control" update success
+[2024-10-02 15:33:47.214]	     | Already up to date.
+[2024-10-02 15:33:47.214]	     | Already up to date.
+[2024-10-02 15:33:47.239]	   "tmux-sensible" update success
+[2024-10-02 15:33:47.242]	     | Already up to date.
+[2024-10-02 15:33:47.254]	   "tmux" update success
+[2024-10-02 15:33:47.256]	     | Already up to date.
+[2024-10-02 15:33:47.265]	   "tmux-copycat" update success
+[2024-10-02 15:33:47.267]	     | Already up to date.
+[2024-10-02 15:33:46.750]	 Updating all plugins!
+[2024-10-02 15:33:46.750]	 
+[2024-10-02 15:33:47.153]	   "tmux-continuum" update success
+[2024-10-02 15:33:47.159]	     | Already up to date.
+[2024-10-02 15:33:47.198]	   "tmux-cpu" update success
+[2024-10-02 15:33:47.204]	     | Already up to date.
+[2024-10-02 15:33:47.223]	   "tmux-resurrect" update success
+[2024-10-02 15:33:47.228]	     | Already up to date.
+[2024-10-02 15:33:47.240]	   "tmux-sensible" update success
+[2024-10-02 15:33:47.243]	     | Already up to date.
+[2024-10-02 15:33:47.245]	   "tmux-copycat" update success
+[2024-10-02 15:33:47.247]	     | Already up to date.
+[2024-10-02 15:33:47.262]	   "tmux" update success
+[2024-10-02 15:33:47.263]	     | Already up to date.
+[2024-10-02 15:33:47.266]	   "tmux-pain-control" update success
+[2024-10-02 15:33:47.267]	     | Already up to date.
+[2024-10-02 15:33:47.276]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:33:47.276]	 Invoking /Users/sean/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2024-10-02 15:33:47.322]	 Done.
+[2024-10-02 15:33:47.322]	 Done.
+
+
