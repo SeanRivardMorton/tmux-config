@@ -164,8 +164,8 @@ tmux_conf_theme_mode_fg="$tmux_conf_theme_colour_1"
 tmux_conf_theme_mode_bg="$tmux_conf_theme_colour_5"
 tmux_conf_theme_mode_attr="bold"
 
-# status line style
-tmux_conf_theme_status_fg="$tmux_conf_theme_colour_3"
+# status line style - These dont' seem to do anything with catppuccin overriding
+tmux_conf_theme_status_fg="$tmux_conf_theme_colour_11"
 tmux_conf_theme_status_bg="transparent"
 tmux_conf_theme_status_attr="none"
 
@@ -191,8 +191,8 @@ tmux_conf_theme_terminal_title="#h ❐ #S ● #I #W"
 #     - #{hostname_full_ssh}
 #     - #{username}
 #     - #{username_ssh}
-tmux_conf_theme_window_status_fg="transparent"
-tmux_conf_theme_window_status_bg="transparent"
+tmux_conf_theme_window_status_fg="$tmux_cont_theme_colour_11"
+tmux_conf_theme_window_status_bg="$tmux_cont_theme_colour_11"
 tmux_conf_theme_window_status_attr="none"
 tmux_conf_theme_window_status_format="#I #W#{?#{||:#{window_bell_flag},#{window_zoomed_flag}}, ,}#{?window_bell_flag,!,}#{?window_zoomed_flag,Z,}"
 #tmux_conf_theme_window_status_format="#{circled_window_index} #W#{?#{||:#{window_bell_flag},#{window_zoomed_flag}}, ,}#{?window_bell_flag,!,}#{?window_zoomed_flag,Z,}"
@@ -208,21 +208,21 @@ tmux_conf_theme_window_status_format="#I #W#{?#{||:#{window_bell_flag},#{window_
 #     - #{hostname_full_ssh}
 #     - #{username}
 #     - #{username_ssh}
-tmux_conf_theme_window_status_current_fg="$tmux_conf_theme_colour_1"
-tmux_conf_theme_window_status_current_bg="$tmux_conf_theme_colour_2"
+tmux_conf_theme_window_status_current_fg="$tmux_conf_theme_colour_11"
+tmux_conf_theme_window_status_current_bg="$tmux_conf_theme_colour_11"
 tmux_conf_theme_window_status_current_attr="bold"
 tmux_conf_theme_window_status_current_format="#I #W#{?#{||:#{window_bell_flag},#{window_zoomed_flag}}, ,}#{?window_bell_flag,!,}#{?window_zoomed_flag,Z,}"
 #tmux_conf_theme_window_status_current_format="#{circled_window_index} #W#{?#{||:#{window_bell_flag},#{window_zoomed_flag}}, ,}#{?window_bell_flag,!,}#{?window_zoomed_flag,Z,}"
 #tmux_conf_theme_window_status_current_format="#I #W#{?#{||:#{window_bell_flag},#{window_zoomed_flag}}, ,}#{?window_bell_flag,🔔,}#{?window_zoomed_flag,🔍,}"
 
 # window activity status style
-tmux_conf_theme_window_status_activity_fg="transparent"
-tmux_conf_theme_window_status_activity_bg="transparent"
+tmux_conf_theme_window_status_activity_fg="$tmux_conf_theme_colour_11"
+tmux_conf_theme_window_status_activity_bg="$tmux_conf_theme_colour_11"
 tmux_conf_theme_window_status_activity_attr="underscore"
 
 # window bell status style
-tmux_conf_theme_window_status_bell_fg="$tmux_conf_theme_colour_5"
-tmux_conf_theme_window_status_bell_bg="transparent"
+tmux_conf_theme_window_status_bell_fg="$tmux_conf_theme_colour_11"
+tmux_conf_theme_window_status_bell_bg="$tmux_conf_theme_colour_11"
 tmux_conf_theme_window_status_bell_attr="blink,bold"
 
 # window last status style
@@ -435,7 +435,7 @@ tmux_conf_uninstall_plugins_on_reload=true
 # /!\ do not add set -g @plugin 'tmux-plugins/tpm'
 # /!\ do not add run '~/.tmux/plugins/tpm/tpm'
 
-# to enable a plugin, use the 'set -g @plugin' syntax:
+# to enable a plugin, use the set -g @plugin syntax:
 # visit https://github.com/tmux-plugins for available plugins
 set -g @plugin 'tmux-plugins/tmux-copycat'
 set -g @plugin 'tmux-plugins/tmux-cpu'
@@ -449,19 +449,15 @@ set -g @plugin 'tmux-plugins/tmux-sensible'
 set -g @plugin 'catppuccin/tmux#latest'
 set -g @catppuccin_flavor 'mocha' # latte, frappe, macchiato or mocha
 
-set -g mouse on
-set -g default-terminal "tmux-256color"
-
-set -g @catppuccin_flavor "macchiato"
 set -g @catppuccin_window_status_style "slanted"
 
 set -g @catppuccin_window_default_text " #W"
 set -g @catppuccin_window_current_text " #W"
 set -g @catppuccin_window_status "icon"
-set -g @catppuccin_window_current_background "#{@thm_sky}"
+set -g @catppuccin_window_current_background "#{@thm_blue}"
 
 run ~/.config/tmux/plugins/catppuccin/tmux/catppuccin.tmux
-set -g @catppuccin_pane_border_style "fg=#{@thm_surface_0}" # Use a value compatible with the standard tmux 'pane-border-style'
+set -g @catppuccin_pane_border_style "fg=#{@thm_peach}" # Use a value compatible with the standard tmux 'pane-border-style'
 set -g @catppuccin_pane_active_border_style "fg=#{@thm_peach}" # Use a value compatible with the standard tmux 'pane-border-active-style'
 
 set -g @catppuccin_menu_selected_style "fg=#{@thm_surface_0},bg=#{@thm_yellow}" # Use a value compatible with the standard tmux `menu-selected-style`
@@ -469,6 +465,7 @@ set -g @catppuccin_menu_selected_style "fg=#{@thm_surface_0},bg=#{@thm_yellow}" 
 set -g @catppuccin_status_default "on"
 set -g @catppuccin_status_background "default"
 
+set -g status-bg "#191724"
 # Make the status line pretty and add some modules
 set -g status-left ""
 set -g status-right "#{E:@catppuccin_status_date_time}"
